@@ -1,4 +1,6 @@
- Hi there 👋
+ <h3> Hola, mi nombre es Ruth 👋 </h3>
+
+ Actualmente, estoy estudiando DAW y dando mis primeros pasos con GITHUB.
 
 <!--
 **Ruthmp/Ruthmp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
