@@ -36,7 +36,7 @@ Me enfoco en mejorar mis habilidades técnicas y crear proyectos que reflejen mi
 
 ### 📌 Proyectos destacados
 
-🔹 **[CV Web Dinámico](https://portfolio-ruth.vercel.app/#top)** — Mi portfolio interactivo que muestra mi CV con carga dinámica y descarga en PDF.
+🔹 **[CV Web Dinámico](https://portfolio-ruth.vercel.app)** — Mi portfolio interactivo que muestra mi CV con carga dinámica y descarga en PDF.
 
 🔹 **App en Go con Google Drive API** — Proyecto desarrollado en prácticas para gestionar archivos de Google Drive.
 
@@ -44,7 +44,7 @@ Me enfoco en mejorar mis habilidades técnicas y crear proyectos que reflejen mi
 
 ### 📫 Contacto
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/Ruthmp)  &nbsp;&nbsp;&nbsp;[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ruth-millan-piqueras/)  &nbsp;&nbsp;&nbsp;[![Portfolio](https://img.shields.io/badge/Portfolio-%2300C853.svg?style=flat&logo=aboutme&logoColor=white)](https://portfolio-ruth.vercel.app/#top)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/Ruthmp)  &nbsp;&nbsp;&nbsp;[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ruth-millan-piqueras/)  &nbsp;&nbsp;&nbsp;[![Portfolio](https://img.shields.io/badge/Portfolio-%2300C853.svg?style=flat&logo=aboutme&logoColor=white)](https://portfolio-ruth.vercel.app)
 
 
 ---
