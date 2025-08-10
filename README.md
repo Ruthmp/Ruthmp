@@ -28,8 +28,7 @@ Me enfoco en mejorar mis habilidades técnicas y crear proyectos que reflejen mi
 ---
 
 ### 📚 Actualmente aprendiendo
-- JavaScript avanzado, TypeScript y React.js  
-- Node.js y desarrollo backend  
+- JavaScript avanzado 
 - Diseño UI/UX y accesibilidad  
 - Inglés (nivel A2, mejorando constantemente)
 
@@ -37,7 +36,7 @@ Me enfoco en mejorar mis habilidades técnicas y crear proyectos que reflejen mi
 
 ### 📌 Proyectos destacados
 
-🔹 **[CV Web Dinámico]** — Mi portfolio interactivo que muestra mi CV con carga dinámica y descarga en PDF.
+🔹 **[CV Web Dinámico](https://portfolio-ruth.vercel.app/#top)** — Mi portfolio interactivo que muestra mi CV con carga dinámica y descarga en PDF.
 
 🔹 **App en Go con Google Drive API** — Proyecto desarrollado en prácticas para gestionar archivos de Google Drive.
 
