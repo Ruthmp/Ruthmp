@@ -28,8 +28,7 @@ I focus on improving my technical skills and creating projects that reflect my l
 ---
 
 ### 📚 Currently Learning
-- Advanced JavaScript, TypeScript, and React.js  
-- Node.js and backend development  
+- Advanced JavaScript 
 - UI/UX Design and accessibility  
 - English (A2 level, constantly improving)
 
