@@ -19,7 +19,6 @@ Me enfoco en mejorar mis habilidades técnicas y crear proyectos que reflejen mi
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) &nbsp;&nbsp; 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) &nbsp;&nbsp; 
 ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white) &nbsp;&nbsp; 
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white) &nbsp;&nbsp; 
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white) &nbsp;&nbsp; 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) &nbsp;&nbsp; 
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) &nbsp;&nbsp; 
