@@ -29,7 +29,6 @@ Me enfoco en mejorar mis habilidades técnicas y crear proyectos que reflejen mi
 ### 📚 Actualmente aprendiendo
 - JavaScript avanzado 
 - Diseño UI/UX y accesibilidad  
-- Inglés (nivel A2, mejorando constantemente)
 
 ---
 
