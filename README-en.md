@@ -37,7 +37,7 @@ I focus on improving my technical skills and creating projects that reflect my l
 
 🔹 **[Dynamic Web CV](https://portfolio-ruth.vercel.app)** — My interactive portfolio showcasing my CV with dynamic loading and PDF download.
 
-🔹 **Recipe Manager** — A web application to manage cooking recipes: allows creating, editing, searching, and deleting recipes, generating a weekly menu, exporting it as a PDF, and automatically creating a shopping list.
+🔹 **[Recipe Manager] (https://gestor-recetas-steel.vercel.app)** — A web application to manage cooking recipes: allows creating, editing, searching, and deleting recipes, generating a weekly menu, exporting it as a PDF, and automatically creating a shopping list.
 
 🔹 **Go App with Google Drive API** — Project developed during internship for managing Google Drive files.
 
