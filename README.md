@@ -36,6 +36,9 @@ Me enfoco en mejorar mis habilidades técnicas y crear proyectos que reflejen mi
 
 🔹 **[CV Web Dinámico](https://portfolio-ruth.vercel.app)** — Mi portfolio interactivo que muestra mi CV con carga dinámica y descarga en PDF.
 
+🔹 **[Gestor de Recetas](https://gestor-recetas-steel.vercel.app)** — Aplicación web para gestionar recetas de cocina: permite crear, editar, buscar y eliminar recetas, generar un menú semanal, exportarlo en PDF y crear la lista de la compra automáticamente.
+
+
 🔹 **App en Go con Google Drive API** — Proyecto desarrollado en prácticas para gestionar archivos de Google Drive.
 
 ---
